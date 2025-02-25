@@ -36,3 +36,5 @@
 - [x]   Crafted user-centric reports, aligning with specific audience needs for better decision-making.
 - [x]  Applied Pivot Tables and Power Pivot to develop impactful business reports with meaningful insights. 
 
+## Link: 
+ Linkedin - (https://www.linkedin.com/in/shrimant-moghe-822512176/)
