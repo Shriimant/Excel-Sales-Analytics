@@ -3,9 +3,9 @@
 
 - **Project Reports :** 
 
-    **1.** Create a _[customer performance report](https://github.com/Shriimant/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf)_
+    **1.** Created a _[customer performance report](https://github.com/Shriimant/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf)_
 
-    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/Shriimant/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)_
+    **2.** Conducted a comprehensive comparison between _[market performance and sales targets](https://github.com/Shriimant/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)_
 
 - **Purpose of sales analytics:** It helps businesses make data-driven decisions to improve revenue, efficiency and customer satisfaction.
 
@@ -18,9 +18,9 @@
 
 - **Project Reports:** 
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/Shriimant/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_
+    **1.** Created Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/Shriimant/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_
 
-   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/Shriimant/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
+   **2.** Created Profit and Loss (P&L) reports by _[Markets](https://github.com/Shriimant/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
 - **Purpose of finance analytics:** It tracks financial performance, enhances forecasting & budgeting, supports strategic decision-making and facilitate communication with stakeholders.
 
 - **Importance of analyzing Finance data:**  It ensures stability, mitigates risks, enhances profitability and supports strategic growth.
